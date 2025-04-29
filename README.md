@@ -7,3 +7,6 @@ A Netflix clone crafted by using HTML and CSS.An excercise in frontend design, c
 -User Authentication: Login system to enusre authentic users.
 
 -Responsive design: This website is completely responsive and mobile-friendly.
+
+## Prerequisites:
+Any modern web browser like chrome, firefox, safari.
